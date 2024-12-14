@@ -1,5 +1,4 @@
-# The-Great-Maze-Craze
-Verilog Maze Game
+# The-Great-Maze-Craze - Verilog Maze Game
 # Background Information
 The purpose of this project is to demonstrate the integration of hardware and software in game design. It provides an opportunity to explore key concepts such as VGA signal generation, memory management, and user input handling, all while developing a functional and engaging application. The game utilizes a VGA driver for visual output, a double-buffering system for efficient rendering, and a Finite State Machine (FSM) for seamless game logic control. User input is managed through the DE0-SoC board's keys, and the game's visual elements are designed using precise hexadecimal color coding.
 Design Description
